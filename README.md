@@ -1,16 +1,16 @@
-# Giới thiệu
-Chào mừng bạn đến với trang GitHub của tôi! Tôi là một lập trình viên đam mê công nghệ và luôn tìm kiếm cơ hội học hỏi.
+# yourdiebronze7
 
-# Kỹ năng
-- JavaScript
-- Python
-- C#
-- React
-- Node.js
+**Thème :** blockchain
 
-# Dự án
-- **Dự án 1**: Ứng dụng quản lý công việc
-- **Dự án 2**: Website thương mại điện tử
+## À propos
+Focalisé sur blockchain.
 
-# Liên hệ
-Bạn có thể liên hệ với tôi qua email: yourdiebronze7@example.com
+## Tech
+- Python · Git · CI/CD
+- - blockchain
+- ethereum
+- solidity
+- smart-contracts
+
+## Liens
+- Profil : https://github.com/yourdiebronze7
